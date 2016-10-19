@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[mitsugk's blog]]></title>
+  <link href="http://mitsugk.github.io/atom.xml" rel="self"/>
+  <link href="http://mitsugk.github.io/"/>
+  <updated>2016-10-19T17:30:30+09:00</updated>
+  <id>http://mitsugk.github.io/</id>
+  <author>
+    <name><![CDATA[Mitsugu Kitano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://mitsugk.github.io/blog/2016/10/19/test2/"/>
+    <updated>2016-10-19T17:23:49+09:00</updated>
+    <id>http://mitsugk.github.io/blog/2016/10/19/test2</id>
+    <content type="html"><![CDATA[<p>octopressの投稿テストです。</p>
+]]></content>
+  </entry>
+  
+</feed>
